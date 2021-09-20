@@ -1,2 +1,0 @@
-# Eesens
-init project
